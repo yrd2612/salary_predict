@@ -15,7 +15,7 @@ import numpy as np
 
 
 import pandas as pd
-from sympy import Symbol, Derivative
+# from sympy import Symbol, Derivative
 
 
 # In[3]:
