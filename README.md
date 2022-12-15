@@ -1,3 +1,2 @@
-# salary_predict
-A basic salary prediction model using the concepts of Linear Regression. I delibrately tried making it without using Scikit learn library. 
-This project was made to understand the maths behind a machine learning algorithm.
+This is a machine learning project made without using any machine learning libraries like sklearn. I made it to learn the mathematics behind a linear regression model. The objective of the project is to predict the expected salary of a person upon entering the years of experiance. 
+I also deployed it on streamlit cloud so that it can be accessed from anywhere using the URL : https://yrd2612-salary-predict-salary-predict-nd6shl.streamlit.app/
